@@ -1,0 +1,133 @@
+body{
+ background-image: url(bg.jpeg);
+ background-repeat: no-repeat;
+background-size: cover;
+}
+
+
+.login_div1
+	{
+        background-color: rgb(255, 120, 174);;
+        margin-top: 20px;
+		padding: 10px;
+        float: none;
+        margin-top: 15%;
+        border-top-left-radius: 20px;
+        border-bottom-right-radius: 20px;
+        text-align: right;
+    margin-right: 12%;
+    margin-left: 60%;
+}
+
+    h3
+    {
+        text-align: left;
+        color:#fff8cd;
+    }
+ button
+    {
+        background-color:#fff8cd;
+        color: rgb(255, 120, 174)  ;
+        text-emphasis: bold;
+        border-radius: 20px;
+        height: 40px;
+        width: 10%;
+    }
+    
+input{
+    width: 30%;
+}
+
+label{
+    color: rgb(240, 65, 140);
+   font-size: 20px;
+   font-style: italic;
+   margin-right: 12%;
+    margin-left: 60%;
+
+}
+img{
+    height: 400px;
+    width: 400px;
+}
+        
+        #lastpageofhtml
+        {
+background-image: url(seamless-cute-pastel-hand-drawn-floral-pattern-background_54572-388.jpg); 
+background-repeat:no-repeat; 
+}
+
+         /* The side navigation menu */
+.sidenav {
+    height: 100%; /* 100% Full-height */
+    width: 0; /* 0 width - change this with JavaScript */
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Stay on top */
+    top: 0; /* Stay at the top */
+    left: 0;
+    background-color: #f3418f; /* Black*/
+    overflow-x: hidden; /* Disable horizontal scroll */
+    padding-top: 60px; /* Place content 60px from the top */
+    transition: 0.5s; /* 0.5 second transition effect to slide in the sidenav */
+  }
+  
+  /* The navigation menu links */
+  .sidenav a {
+    padding: 8px 8px 8px 32px;
+    text-decoration: none;
+    font-size: 25px;
+    color: #fff4d0;
+    display: block;
+    transition: 0.3s;
+  }
+  
+  /* When you mouse over the navigation links, change their color */
+  .sidenav a:hover {
+      color: white;
+      background-color:pink;
+  }
+  
+  /* Position and style the close button (top right corner) */
+  .sidenav .closebtn {
+    position: absolute;
+    top: 0;
+    right: 25px;
+    font-size: 36px;
+    margin-left: 50px;
+  }
+  
+  /* Style page content - use this if you want to push the page content to the right when you open the side navigation */
+  #main {
+    transition: margin-left .5s;
+    padding: 20px;
+  }
+  
+  /* On smaller screens, where height is less than 450px, change the style of the sidenav (less padding and a smaller font size) */
+  @media screen and (max-height: 450px) {
+    .sidenav {padding-top: 15px;}
+    .sidenav a {font-size: 18px;}
+  } 
+
+  #click
+  {
+      background-color: palevioletred;
+      color: seashell;
+  }
+  #title
+  {
+      color: palevioletred;
+      background-color: rgb(255, 255, 255);
+      width: 200px;
+      font-style:oblique;
+  }
+  h1{
+    color: palevioletred;
+    font-family: 'Yeon Sung';font-size: 45px;letter-spacing: 10px;margin-top: 80px;
+    font-size: 80px;  
+    margin-right: 10px;
+    margin-top: 1px;
+  }
+  #sentence{
+      color: palevioletred;
+      margin-left: 38%;
+  }
